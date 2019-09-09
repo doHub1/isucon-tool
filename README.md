@@ -1,7 +1,7 @@
 hoge
 ---
 
-#setup
+# setup
 yum install -y curl git vim openresty mysql memcached redis 
 
 
